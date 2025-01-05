@@ -1,0 +1,1 @@
+This repository contains a simple example of a common error in Tcl when using the expr command. The bug arises when the inputs to the expr command are not numbers. This can lead to unexpected results or errors. The solution demonstrates how to ensure that the inputs are correctly formatted before passing them to the expr command.
